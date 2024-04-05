@@ -4,29 +4,35 @@
 
 
 ## Team Name
-Name  
+12345
 
 # Team Member
-Member 1 Github Link
+https://github.com/agil-p-varghese
+https://github.com/arpeth24
 
-MEmber 2 Github Link
+
 
 ## Idea
-Breif Idea in two three sentences 
+a student friendly college website to give info and servicess as follows
+# gives info about all events in colllege including date,time and venue.
+# a e-college office for availing info about scholarship schenes and other academic details(like fee pending details,Dj Hall booking for various talk sessions etc)
+# availing a passive income opportunity like bike rentals,tutions etc
 
 ## Features 
-1. 
+1. e college e office for administrative and college bus office
+2. 
 
 ## Link to product walkthrough
 [link to video](Link Here)
 
    
 ## Libraries used
-Library Name - Version
+react 
+node
 
 
 ## How to configure
-Instructions for setting up project
+Ins
 
 ## How to Run
 Instructions for running
